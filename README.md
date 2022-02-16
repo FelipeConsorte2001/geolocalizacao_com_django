@@ -13,4 +13,4 @@ A busca é feita utilizando a API da plataforma Yelp, logo a após fazer a requi
 </ul>
 <h1>Testando o projeto</h1>
 <p>Abra o projeto na IDE de sua preferência ative o ambiente virtual.</p><br>
-<p>Logo apos execute o comando <h3>python manage.py runserver</h3></p>
+<p>Logo apos execute o comando <strong>python manage.py runserver</strong></p>
